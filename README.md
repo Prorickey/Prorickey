@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student with an int
 
 - 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
 - 💼 I’m looking to collaborate on exciting projects and contribute to open-source communities.
-- 📫 How to reach me: [trevobedson@gmail.com](mailto:trevobedson@gmail.com)
+- 📫 How to reach me: [trevor@bedson.tech](mailto:trevor@bedson.tech)
 
 ## 🛠️ Technologies & Tools
 
@@ -32,6 +32,6 @@ Here are some of my notable projects:
 
 - [LinkedIn](https://www.linkedin.com/in/trevor-bedson-756195339/)
 - Discord: prorickey
-- [Personal Website](https://prorickey.xyz/)
+- [Personal Website](https://bedson.tech/)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project. 😊
