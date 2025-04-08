@@ -30,7 +30,7 @@ Here are some of my notable projects:
 -->
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/trevor-bedson-756195339/)
+- [LinkedIn](https://www.linkedin.com/in/trevor-bedson/)
 - Discord: prorickey
 - [Personal Website](https://bedson.tech/)
 
