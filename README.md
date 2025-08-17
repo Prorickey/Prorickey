@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student with an int
 
 - 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
 - 💼 I’m looking to collaborate on exciting projects and contribute to open-source communities.
-- 📫 How to reach me: [trevor@bedson.tech](mailto:trevor@bedson.tech)
+- 📫 How to reach me: [trevor@bedson.tech](mailto:trevobedson@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
