@@ -1,6 +1,6 @@
 # Hi there, I'm Trevor Bedson (Prorickey)! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and student with an interest in various aspects of software development, including web development, and open-source contributions.
+Welcome to my GitHub profile! I'm a passionate developer and student with an interest in various aspects of software development, including web development and mobile app development.
 
 ## 🚀 About Me
 
@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer and student with an int
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, JavaScript, Java, Golang
-- **Web Development:** HTML, CSS, React, Node.js, Tailwindcss
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** Python, JavaScript, TypeScript, Java, Go, Kotlin
+- **Web Development:** HTML, CSS, React, React Native, Expo, Node.js, Tailwindcss
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Tools & Platforms:** Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
