@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer and student with an int
 
 ## 📈 GitHub Stats
 
-![Prorickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prorickey&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prorickey&layout=compact&theme=radical)
+![Prorickey's GitHub stats](https://github-readme-stats-kds3ox1mj-trevor-bedsons-projects.vercel.app/api?username=Prorickey&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-kds3ox1mj-trevor-bedsons-projects.vercel.app/api/top-langs/?username=Prorickey&layout=compact&theme=radical)
 <!---
 ## 📂 Projects
 
