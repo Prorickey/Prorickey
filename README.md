@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student with an int
 
 ## 🚀 About Me
 
-- ⚛️ I'm currently a student at the [North Carolina School of Science and Mathematics](https://ncssm.edu).
+- ⚛️ I'm currently a student at the [Duke University](https://duke.edu).
 - 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
 - 🌲 Outside of coding, I enjoy running, swimming, racing, and getting out into nature.
 - 📫 How to reach me: [trevor@bedson.tech](mailto:trevor@bedson.tech)
